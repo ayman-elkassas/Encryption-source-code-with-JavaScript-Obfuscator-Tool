@@ -1,0 +1,4 @@
+Edit start.bat before run :
+**********************************
+1-path of dir
+2-path of obfuscator.exe no space inb path
